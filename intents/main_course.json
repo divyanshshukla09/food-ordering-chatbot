@@ -1,0 +1,57 @@
+{
+  "id": "930a36a5-2df7-41a5-af1e-82bbc7350d36",
+  "name": "main_course",
+  "auto": true,
+  "contexts": [
+    "choice"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "choice",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4bf26498-873b-4d51-868a-f1beaf2bc5bc",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "choose any of these items given below👇👇👇                                                                        1). biryani.                                                                                                                                       2).pizza.                                                                                                                                           3).momos."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

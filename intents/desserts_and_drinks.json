@@ -1,0 +1,57 @@
+{
+  "id": "f63e675f-faf0-4aaa-b53b-e10926ef1620",
+  "name": "desserts_and_drinks",
+  "auto": true,
+  "contexts": [
+    "choice"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "choice",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a1cffbc8-471d-4954-ad70-7a718aaefb2d",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "choose you desserts and drinks 👇👇👇                                                                                         1).  icecream.                                                                                                                                   2). cold  drinks.                                                                                                                                           3). energy drink 💪  💪  💪 ."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

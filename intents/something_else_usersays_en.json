@@ -1,0 +1,210 @@
+[
+  {
+    "id": "7fa1cd07-6cf1-4948-8555-355ac1da3e61",
+    "data": [
+      {
+        "text": "cake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e302636f-c8e7-45c0-8570-c13b5500c595",
+    "data": [
+      {
+        "text": "pastries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "166e2e3a-44dd-42e2-a36c-da0463b3c0fe",
+    "data": [
+      {
+        "text": "burger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c729f9c6-c72b-4b33-b11a-a27096f6921b",
+    "data": [
+      {
+        "text": "naan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85e54d60-f49d-4650-97ac-13d2f5c832e1",
+    "data": [
+      {
+        "text": "fried rice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b213a821-3c00-4c64-a559-f2b41b58623d",
+    "data": [
+      {
+        "text": "chili potato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f51fe371-93c8-48cc-9b93-907a3705a730",
+    "data": [
+      {
+        "text": "chilli paneer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0b681d6-81c5-4271-8c81-096472ac6ab3",
+    "data": [
+      {
+        "text": "hakka noodles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f733a50b-962a-4d35-9533-c76bdc4705ed",
+    "data": [
+      {
+        "text": "manchurian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53844cc5-2c2f-460f-ba48-85beb50310e8",
+    "data": [
+      {
+        "text": "tomato soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a3b3ab9-4b5c-464e-8ceb-485606b297ed",
+    "data": [
+      {
+        "text": "dosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a069a72d-062b-46ad-818e-7f2fff02ba45",
+    "data": [
+      {
+        "text": "idli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c07ac646-a601-48e2-b491-c8b2b5ad1bf8",
+    "data": [
+      {
+        "text": "french fries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dad7762-fc42-44d9-ad4a-1dc2e5dfcc33",
+    "data": [
+      {
+        "text": "garlic bread",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee2b76fb-158f-4b25-b850-7ff60f8ebd06",
+    "data": [
+      {
+        "text": "paneer tikka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1107725-e928-482a-86a4-55cf2bb9c148",
+    "data": [
+      {
+        "text": "samosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
